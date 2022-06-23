@@ -1,3 +1,5 @@
+**This repository has been moved to https://git.sr.ht/~witcher/thread_pool_sort_benchmark**
+
 # Thread Pool Benchmarking
 
 Simple benchmarking of a variable number of threads with a thread pool implementation by [Barak Shoshany](https://github.com/bshoshany/).  
